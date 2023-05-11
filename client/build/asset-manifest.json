@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.bb416370.css",
-    "main.js": "/static/js/main.955ffa24.js",
+    "main.js": "/static/js/main.104c8119.js",
     "static/media/male.png": "/static/media/male.766279015fae30cd9fac.png",
     "static/media/hero.png": "/static/media/hero.e23adb48bd6e9f229d83.png",
     "static/media/box.png": "/static/media/box.8a9f3b29350297e4e160.png",
@@ -23,24 +23,21 @@
     "static/media/kitchen-view1.jpg": "/static/media/kitchen-view1.d648ae56242fe0724a0b.jpg",
     "static/media/bed-room2.jpg": "/static/media/bed-room2.83bf2c689fe0cc147f5a.jpg",
     "static/media/forex.jpg": "/static/media/forex.121628bdf14d0df2b790.jpg",
-    "static/media/client1.jpg": "/static/media/client1.7ab8d2a6da39fb50bd78.jpg",
     "static/media/hitchen-view3.jpg": "/static/media/hitchen-view3.a795033bb82121323731.jpg",
     "static/media/9.jpg": "/static/media/9.9298c166de24c0097d77.jpg",
-    "static/media/client3.jpg": "/static/media/client3.6b68b67b54a9301f9338.jpg",
     "static/media/sitting-room.jpg": "/static/media/sitting-room.5347315796799f1cb3c7.jpg",
     "static/media/NotFound.png": "/static/media/NotFound.efff90cc04f7c515ec7c.png",
     "static/media/stock-2.png": "/static/media/stock-2.3fb8cfce7470f02c8f29.png",
     "static/media/toilet.jpg": "/static/media/toilet.bb5529937dd0784c4029.jpg",
-    "static/media/client2.jpg": "/static/media/client2.f261f4b6930b052542de.jpg",
     "static/media/logo.png": "/static/media/logo.260e8707f54fbdc53f87.png",
     "index.html": "/index.html",
     "static/media/close.svg": "/static/media/close.52ab0d39b2c514b8322115c951eac5a2.svg",
     "static/media/menu.svg": "/static/media/menu.acf64a387fc724c7a47a3a0120d5dc52.svg",
     "main.bb416370.css.map": "/static/css/main.bb416370.css.map",
-    "main.955ffa24.js.map": "/static/js/main.955ffa24.js.map"
+    "main.104c8119.js.map": "/static/js/main.104c8119.js.map"
   },
   "entrypoints": [
     "static/css/main.bb416370.css",
-    "static/js/main.955ffa24.js"
+    "static/js/main.104c8119.js"
   ]
 }
