@@ -22,7 +22,7 @@ exports.read = async (req, res) => {
     <p style={{fontSize:"1.3rem", padding:"1rem 0rem"}}>To continue with rest password, click on the link below </p>
     
     ${process.env.BASE_URL}reset-password/${oldUser._id}/${token}`;
-    await sendEmail(oldUser.email, "supremewavescapital Forgot Password", message);
+    await sendEmail(oldUser.email, "SwizzFunds Forgot Password", message);
     res.status(200).json({
       successMessage: "Verify email to continue",
     });
