@@ -200,13 +200,13 @@ if (isEmpty(fullName) || isEmpty(email) || isEmpty(message)) {
                     Write Us
                   </h5>
                   <p className="flex justify-between gap-6 items-start lg:text-[18px] text-xs text-white">
-                    Call: <span>+1(239) 203-8946</span>
+                  Whatsapp/Call: <span>+1(239) 203-8946</span>
                     
                   </p>
-                  <p className="flex justify-between gap-6 items-start lg:text-[18px] text-xs text-white">
+                  {/* <p className="flex justify-between gap-6 items-start lg:text-[18px] text-xs text-white">
                   Whatsapp: <span>+44 07771094494</span>
                     
-                  </p>
+                  </p> */}
                   
                     </span>
                 </motion.div>
