@@ -52,11 +52,11 @@ const Whyus = () => {
       <motion.div className="mt-20 bg-tertiary py-8 px-6 rounded-lg" variants={zoomIn(0.5, 1)} initial="hidden" whileInView="show">
         <p className={`${styles.sectionSubText} `}>For more infomation about us, we are here.</p>
         <div className="flex flex-wrap justify-between gap-6">
-          {/* <div className="mt-6 w-[300px]">
+          <div className="mt-6 w-[300px]">
             <h3 className="text-light flex items-center gap-2 mb-2"> Patrick Smith <FaUser className="bg-primary rounded-full text-white"/></h3>
-            <span className='text-[16px]  text-white'>Whatsapp: +1 (239) 203-8946</span>
-            <p className='text-[16px]  text-white'>Email: ps9562708@gmail.com</p>
-          </div> */}
+            <span className='text-[16px]  text-white'>Whatsapp/Call: +1 (239) 203-8946</span>
+            {/* <p className='text-[16px]  text-white'>Email: ps9562708@gmail.com</p> */}
+          </div>
           <div className="mt-6 w-[350px]">
             <h3 className="text-light flex items-center gap-2 mb-2"> Christine <FaUser className="bg-primary rounded-full text-white"/></h3>
             {/* <span className='text-[16px]  text-white'>Whatsapp: +4407771094494</span> */}

@@ -93,7 +93,7 @@ const Footer = () => {
             <span>413 Oxford St, London W1C 2PF, United Kingdom</span>
           </span>
           <span className="text-[16px] xl:text-[18px] text-secondary">
-            {/* Whatsapp: +4407771094494  */}
+            Whatsapp/Call: +1(239) 203-8946 
             {/* / +1(239) 203-8946 */}
           </span>
         </div>
