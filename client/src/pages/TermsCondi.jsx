@@ -1103,11 +1103,11 @@ const TermsCondi = () => {
                     <br />
                     <br />
                   </p>
-                  <h4 className="uppercase text-xl">
+                  <h2 className="">
                     Account Withdrawal Restrictions
-                  </h4>
+                  </h2>
                   <br />
-                  <h4 className="uppercase">Account Withdrawal Restrictions</h4>
+                  <h2 className="">Account Withdrawal Limits</h2>
                   <p>
                     a. Each account holder is permitted a specific number of
                     withdrawals based on their current plan.
@@ -1117,7 +1117,7 @@ const TermsCondi = () => {
                     <br />
                     <br />
                   </p>
-                  <h4 className="uppercase">Options to Lift Restrictions:</h4>
+                  <h2 className="">Options to Lift Restrictions:</h2>
                   <p>
                     a. If four consecutive withdrawals are made, a temporary
                     restriction will automatically be applied to the account.
@@ -1128,7 +1128,7 @@ const TermsCondi = () => {
                     <br />
                     <br />
                   </p>
-                  <h4 className="uppercase">Restriction Activation:</h4>
+                  <h2 className="">Restriction Activation:</h2>
                   <p>
                     Account holders can regain full access to withdrawal
                     functionality by taking one of the following actions: a.
@@ -1145,9 +1145,9 @@ const TermsCondi = () => {
                     <br />
                     <br />
                   </p>
-                  <h4 className="uppercase">
+                  <h2 className="">
                     Account Suspension for Inactivity:
-                  </h4>
+                  </h2>
                   <p>
                     Failure to meet the outlined conditions will result in a
                     continued suspension of withdrawal privileges until the
@@ -1155,7 +1155,7 @@ const TermsCondi = () => {
                     <br />
                     <br />
                   </p>
-                  <h4 className="uppercase">Support and Queries:</h4>
+                  <h2 className="">Support and Queries:</h2>
                   <p>
                     For assistance or clarification regarding these terms and
                     conditions, account holders are encouraged to contact
@@ -1165,7 +1165,7 @@ const TermsCondi = () => {
                     <br />
                   </p>
 
-                  <h4>MINIMUM WITHDRAWAL AMOUNTS</h4>
+                  <h2>MINIMUM WITHDRAWAL AMOUNTS</h2>
                   <p>
                     When you withdraw funds from your Swizzfunds account, a
                     minimum withdraw amount of $30.00 is required. <br />
